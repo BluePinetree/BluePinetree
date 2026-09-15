@@ -1,13 +1,10 @@
 ### Yunsu Kim · 김윤수
 
 I work on signal processing — underwater acoustics, sonar classification, machine
-fault diagnosis, metocean forecasting — and on agentic systems that try to run
-research on their own. The second half taught me something about the first: a
-number produced by code a language model wrote is the model's report of a
-measurement, not the measurement. Most of what I build now is the fixed layer that
-tells those apart, and I run it against my own work first — including the figures
-in [agent-harness-anatomy](https://github.com/BluePinetree/agent-harness-anatomy#readme)
-that turned out not to reproduce.
+fault diagnosis, and metocean forecasting — as well as agentic AI systems for
+analysis, decision-making, and research workflows. By combining domain knowledge
+from real-world signal processing problems with agentic AI, I aim to build AI
+systems that are both reliable and practically useful.
 
 Ph.D. student at Changwon National University, SPAI-Lab.
 
