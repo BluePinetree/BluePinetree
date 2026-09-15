@@ -9,7 +9,7 @@ tells those apart, and I run it against my own work first — including the figu
 in [agent-harness-anatomy](https://github.com/BluePinetree/agent-harness-anatomy#readme)
 that turned out not to reproduce.
 
-Ph.D. student at Changwon National University, [SPAI-Lab](https://github.com/SPAI-Lab).
+Ph.D. student at Changwon National University, SPAI-Lab.
 
 <samp>
 <a href="https://scholar.google.com/citations?user=PfZc1IkAAAAJ">scholar</a> .
